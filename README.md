@@ -17,7 +17,9 @@ Works with OJS 2.4.5. Although not tested, it should work with previous 2.4 and 
 Installation
 ------------
 - Copy the plugin contents in the plugins/themes folder
-- select the theme by going to Journal Management > Setup > Step 5 (The Look) and changing the journal theme to Modern.
+- Select the theme by going to Site Administrator page > Site Settings and changing the site theme to Modern Theme.
+- Save and clear the template cache, on the same Site Administrator page, under Administrative functions.
+- Now you can select the same theme under Journal Setup > step 5 > Journal Theme.
 
 
 Configuration
